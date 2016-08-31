@@ -1,0 +1,235 @@
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\ApplicationInsights.config
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\csc.exe
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\csc.exe.config
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\csc.rsp
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\csi.exe
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\csi.rsp
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\System.AppContext.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\vbc.exe
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\vbc.exe.config
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\vbc.rsp
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\VBCSCompiler.exe
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\EventMgmt.dll.config
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\EventMgmt.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\EventMgmt.pdb
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\EntityFramework.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\EntityFramework.SqlServer.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AI.Web.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.ApplicationInsights.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.Owin.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.Owin.Security.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Newtonsoft.Json.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Owin.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Helpers.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Mvc.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Razor.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Webpages.Deployment.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Webpages.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Webpages.Razor.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\EntityFramework.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\EntityFramework.SqlServer.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AI.Web.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.ApplicationInsights.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.Owin.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Microsoft.Owin.Security.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\Newtonsoft.Json.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Razor.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Webpages.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Webpages.Deployment.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Webpages.Razor.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Helpers.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\System.Web.Mvc.xml
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\obj\Debug\EventMgmt.csprojResolveAssemblyReference.cache
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\obj\Debug\EventMgmt.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\obj\Debug\EventMgmt.pdb
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\DAL.dll
+c:\Users\kaiza\OneDrive\documents\visual studio 2015\Projects\EventMgmt\EventMgmt\bin\DAL.pdb
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\ApplicationInsights.config
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\csc.exe
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\csc.exe.config
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\csc.rsp
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\csi.exe
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\csi.rsp
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\System.AppContext.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\vbc.exe
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\vbc.exe.config
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\vbc.rsp
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\VBCSCompiler.exe
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\EventMgmt.dll.config
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\EventMgmt.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\EventMgmt.pdb
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\DAL.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\EntityFramework.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\EntityFramework.SqlServer.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AI.Web.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.Owin.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.Owin.Security.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Newtonsoft.Json.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Owin.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Helpers.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Mvc.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Razor.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Webpages.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Webpages.Razor.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\DAL.pdb
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\EntityFramework.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\EntityFramework.SqlServer.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AI.Web.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.Owin.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Microsoft.Owin.Security.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\Newtonsoft.Json.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Razor.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Webpages.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Webpages.Razor.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Helpers.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\bin\System.Web.Mvc.xml
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\obj\Debug\EventMgmt.csprojResolveAssemblyReference.cache
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\obj\Debug\EventMgmt.dll
+C:\Users\kaiza\OneDrive\documents\GitHub\EventMgmt\EventMgmt\obj\Debug\EventMgmt.pdb
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\ApplicationInsights.config
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\csc.exe
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\csc.exe.config
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\csc.rsp
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\csi.exe
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\csi.rsp
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\System.AppContext.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\System.Collections.Immutable.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\System.IO.FileSystem.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\System.Reflection.Metadata.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\vbc.exe
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\vbc.exe.config
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\vbc.rsp
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\VBCSCompiler.exe
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\roslyn\VBCSCompiler.exe.config
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\EventMgmt.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\EventMgmt.pdb
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\DAL.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\EntityFramework.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\EntityFramework.SqlServer.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AI.DependencyCollector.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AI.Web.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AI.WindowsServer.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.ApplicationInsights.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AspNet.SignalR.Core.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.Owin.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.Owin.Security.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Newtonsoft.Json.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Owin.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Helpers.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Mvc.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Razor.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Webpages.Deployment.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Webpages.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Webpages.Razor.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\DAL.pdb
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\EntityFramework.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\EntityFramework.SqlServer.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AI.DependencyCollector.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AI.Web.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AI.WindowsServer.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.ApplicationInsights.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AspNet.SignalR.Core.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.Owin.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Microsoft.Owin.Security.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\Newtonsoft.Json.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Razor.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Webpages.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Webpages.Deployment.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Webpages.Razor.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Helpers.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\bin\System.Web.Mvc.xml
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\obj\Debug\EventMgmt.csprojResolveAssemblyReference.cache
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\obj\Debug\EventMgmt.dll
+I:\updated versions\0.0.0.3\EventMgmt-master\EventMgmt\obj\Debug\EventMgmt.pdb
